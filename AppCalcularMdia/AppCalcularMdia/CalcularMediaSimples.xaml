@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppCalcularMdia.CalcularMediaSimples"
+             Title="CalcularMediaSimples">
+    
+    <VerticalStackLayout Spacing="20" Padding="20">
+        <Label 
+            Text="Calcular Media Simples"
+            FontAttributes="Bold"
+            FontSize="20"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+
+        <Label x:Name="lblNota1" Text="Digite sua primeira nota: "/>
+        <Entry x:Name="etrNota1" />
+
+        <Label x:Name="lblNota2" Text="Digite sua segunda nota: "/>
+        <Entry x:Name="etrNota2" />
+
+        <Button x:Name="btnCalcular" Text="Calcular Media" />
+
+    </VerticalStackLayout>
+</ContentPage>

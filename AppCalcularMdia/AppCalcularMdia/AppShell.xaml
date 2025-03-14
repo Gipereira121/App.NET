@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="AppCalcularMdia.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:AppCalcularMdia"
+    Shell.TabBarIsVisible="False"
+    
+    Title="AppCalcularMdia">
+
+    
+    <Shell.FlyoutHeader>
+        <VerticalStackLayout>
+            <Image Source="dotnet_bot.png"
+                   WidthRequest="100"
+                   HeightRequest="150" />
+
+            <Label Text="CALCUADORA DE MÉDIAS"
+                   HorizontalTextAlignment="Center" />
+        </VerticalStackLayout>
+    </Shell.FlyoutHeader>
+
+    <Shell.FlyoutFooter>
+        <Label Text="Direitos reservados @By"
+                HorizontalTextAlignment="Center" />
+    </Shell.FlyoutFooter>
+    
+
+    <FlyoutItem Title="MENU PRINCIPAL"
+                FlyoutDisplayOptions="AsMultipleItems">
+       
+        <ShellContent Title="Home"
+                      ContentTemplate="{DataTemplate local:MainPage}"
+                      Route="MainPage"
+                      Icon="dotnet_bot.png"/>
+            
+
+        <ShellContent Title="Media Simples"
+                      ContentTemplate="{DataTemplate local:CalcularMediaSimples}"
+                      Route="CalcularMediaSimples" 
+                      Icon="dotnet_bot.png" />
+
+
+        <ShellContent Title="Media Composta"
+                      ContentTemplate="{DataTemplate local:CalcularMediaComposta}"
+                      Route="CalcularMediaComposta"
+                      Icon="dotnet_bot.png" />
+
+
+        <ShellContent Title="Sobre"
+                      ContentTemplate="{DataTemplate local:Sobre}"
+                      Route="Sobre"
+                      Icon="dotnet_bot.png" />
+
+
+
+    </FlyoutItem>
+
+    
+
+</Shell>

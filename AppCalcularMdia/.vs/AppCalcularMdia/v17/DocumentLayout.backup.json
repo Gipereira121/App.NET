@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\testeapp\\AppCalcularMdia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{588BA06F-0133-404C-96CE-FD2F4A5CEC60}|AppCalcularDiasVividos\\AppCalcularDiasVividos.csproj|c:\\testeapp\\appcalcularmdia\\appcalculardiasvividos\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588BA06F-0133-404C-96CE-FD2F4A5CEC60}|AppCalcularDiasVividos\\AppCalcularDiasVividos.csproj|solutionrelative:appcalculardiasvividos\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588BA06F-0133-404C-96CE-FD2F4A5CEC60}|AppCalcularDiasVividos\\AppCalcularDiasVividos.csproj|c:\\testeapp\\appcalcularmdia\\appcalculardiasvividos\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{588BA06F-0133-404C-96CE-FD2F4A5CEC60}|AppCalcularDiasVividos\\AppCalcularDiasVividos.csproj|solutionrelative:appcalculardiasvividos\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\testeapp\\AppCalcularMdia\\AppCalcularDiasVividos\\MainPage.xaml",
+              "RelativeDocumentMoniker": "AppCalcularDiasVividos\\MainPage.xaml",
+              "ToolTip": "C:\\testeapp\\AppCalcularMdia\\AppCalcularDiasVividos\\MainPage.xaml",
+              "RelativeToolTip": "AppCalcularDiasVividos\\MainPage.xaml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-13T23:50:29.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\testeapp\\AppCalcularMdia\\AppCalcularDiasVividos\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "AppCalcularDiasVividos\\MainPage.xaml.cs",
+              "ToolTip": "C:\\testeapp\\AppCalcularMdia\\AppCalcularDiasVividos\\MainPage.xaml.cs",
+              "RelativeToolTip": "AppCalcularDiasVividos\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T23:49:26.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

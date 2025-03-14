@@ -1,0 +1,1 @@
+C:\testeapp\AppCalcularMdia\AppCalcularDiasVividos\AppCalcularDiasVividos.csproj;x64
